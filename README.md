@@ -11,7 +11,7 @@
 * 💡 Love solving problems using **Data Structures & Algorithms**
 * 🔥 Currently working on **Full Stack Projects**
 * 📈 Solved 200+ DSA problems
-* 💼 Building projects that solve real-world problems
+* 💼 Focused on building real-world, impactful applications
 
 ---
 
@@ -30,7 +30,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 
-### ⚙️ Tools
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
@@ -43,6 +47,10 @@
 
 * Knapsack Algorithm based budget optimization system
 * Helps users select best items under budget
+
+🔹 **Cart Multi Category E-Commerce Platform**
+
+* Multi-category shopping platform with modern UI
 
 🔹 **Amazon Clone**
 
@@ -62,17 +70,9 @@
 
 ---
 
-## 🔥 Streak Stats
+## 📬 Contact Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=muskankumari23\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/muskankumari23)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/muskank23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/muskank23/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:muskankumari92084@gmail.com)
 
 ---
-
-✨ *"Code. Learn. Build. Repeat."* 🚀
