@@ -84,5 +84,3 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:muskankumari92084@gmail.com)
 
 ---
-
-✨ *"Code. Learn. Build. Repeat."* 🚀
