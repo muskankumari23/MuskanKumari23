@@ -9,7 +9,7 @@
 
 * 🎓 B.Tech CSE Student (Lateral Entry)
 * 💡 Love solving problems using **Data Structures & Algorithms**
-* 🔥 Currently working on **Full Stack Projects**
+* 🔥 Currently working on **Full Stack (MERN) Projects**
 * 📈 Solved 200+ DSA problems
 * 💼 Focused on building real-world, impactful applications
 
@@ -30,14 +30,22 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
-### 🛠️ Tools
+👉 **MERN Stack Developer (MongoDB, Express.js, React, Node.js)**
+
+---
+
+### 🚀 Deployment & Tools
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge\&logo=netlify)
 
 ---
 
@@ -76,3 +84,5 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:muskankumari92084@gmail.com)
 
 ---
+
+✨ *"Code. Learn. Build. Repeat."* 🚀
