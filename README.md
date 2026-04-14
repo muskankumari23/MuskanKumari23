@@ -78,10 +78,9 @@ Real-time weather using API
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskankumari23&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskankumari23&layout=compact&theme=tokyonight" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=muskankumari23&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=muskankumari23&show_icons=true&theme=tokyonight)" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=muskankumari23&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=muskankumari23&layout=compact&theme=tokyonight)" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
