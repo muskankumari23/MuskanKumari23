@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
 </p>
+
 ### 🌐 Frontend
 
 <p>
