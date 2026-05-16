@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
 <h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast</h3>
-
 <p align="center">
   🚀 Building real-world projects | 💡 DSA Enthusiast | 🌱 Always Learning
 </p>
