@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
 </p>
 
-<p>👉 <b>MERN Stack Developer (MongoDB, Express.js, React, Node.js)</b></p>
+<p>👉 <b>MERN Stack Developer (MongoDB, Express, React.js, Node.js)</b></p>
 
 ---
 
