@@ -36,7 +36,6 @@
 </p>
 
 ### ⚙️ Backend & Database
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
