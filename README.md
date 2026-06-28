@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 ## 🌟 About Me
 
 * 🎓 B.Tech CSE Student (Lateral Entry)
